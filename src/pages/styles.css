@@ -1,0 +1,14 @@
+.ant-col css-dev-only-do-not-override-acm2ia {
+    width: 0 !important;
+}
+
+.sideBar {
+    border: 1px solid;
+    border-color: red;
+    color: #2a37f8;
+    height: 100%;
+    width:"50%" 
+}
+.topBar {
+
+}
